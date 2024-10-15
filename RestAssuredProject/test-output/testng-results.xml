@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-15T18:10:56 EEST" name="Default Suite" finished-at="2024-10-15T18:11:02 EEST" duration-ms="5280">
+    <groups>
+    </groups>
+    <test started-at="2024-10-15T18:10:56 EEST" name="untitled" finished-at="2024-10-15T18:11:02 EEST" duration-ms="5280">
+      <class name="TestCases">
+        <test-method signature="verifyGetMethod()[pri:0, instance:TestCases@5762806e]" started-at="2024-10-15T18:10:57 EEST" name="verifyGetMethod" finished-at="2024-10-15T18:11:01 EEST" duration-ms="4581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetMethod -->
+        <test-method signature="verifyPostMethod()[pri:0, instance:TestCases@5762806e]" started-at="2024-10-15T18:11:01 EEST" name="verifyPostMethod" finished-at="2024-10-15T18:11:01 EEST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPostMethod -->
+        <test-method signature="verifySuccessfulDeleteMethod()[pri:0, instance:TestCases@5762806e]" started-at="2024-10-15T18:11:01 EEST" name="verifySuccessfulDeleteMethod" finished-at="2024-10-15T18:11:02 EEST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySuccessfulDeleteMethod -->
+      </class> <!-- TestCases -->
+    </test> <!-- untitled -->
+  </suite> <!-- Default Suite -->
+</testng-results>
