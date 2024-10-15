@@ -1,6 +1,6 @@
 # UI-RestAssuredAutomationTask
 
-for the RestAssured project,
+For the RestAssured project,
 the scenarios include verifying GET,POST and DELETE methods as well as assertions on status codes and body of the json response.
 The structure of the project is src/java-->TestCases(written in gherkin language given when then syntax, and includes assertions)
 To run any of the testcases, right click on the testcases file and "run as testNG".
@@ -10,7 +10,7 @@ There is a demo video for the restAssured API project through this link:https://
 
 
 
-for the Eshop project,
+For the Eshop project,
 the scenarios include locating elements on homepage screen, login screen and checkout screen and performing sendkeys methods and clicking methods as well as assertions.
 The structure of the project is java-->features(written in  english language for easy understanding)
                                     -->pages(locate elements in different pages of the website)
